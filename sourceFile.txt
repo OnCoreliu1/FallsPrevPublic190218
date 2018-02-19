@@ -23,7 +23,7 @@ fact   Corridor.1                   =  Needs chairs for resting
 fact   Corridor.2                   =  It's urgent to increase this lighting
 
 photo  Medication                   =  Medication has side effects
-       url                          =  20170723_205439.jpg
+       url                          =  20170723_205436.jpg
 fact   Medication.1                 =  Can cause dizziness
 fact   Medication.2                 =  Can cause confusion
 
