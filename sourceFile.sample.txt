@@ -1,0 +1,6 @@
+app FallsPrevPublic190218   = Falls Prevention 2. Ssecond falls app (first on Coreliu).
+  maximages = 6
+  icon      = https://avatars3.githubusercontent.com/u/36601206?v=4
+  author    = GforC1
+  email     = 36601206+GforC1@users.noreply.github.com
+
