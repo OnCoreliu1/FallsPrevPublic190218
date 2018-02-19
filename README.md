@@ -1,2 +1,2 @@
 # FallsPrevPublic190218
-Falls Prevention 2. Ssecond falls app (first on Coreliu).
+Second falls prevention app.  The first one on on Coreliu.
