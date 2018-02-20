@@ -1,5 +1,5 @@
 app    FallsPrevPublic190218        =  Falls Prevention 2                                                                  
-       author                       =  GforC1                                                                                            
+       author                       =  OnCoreliu1                                                                                            
        description                  =  Second test of 180218 automated system                                                      
        email                        =  coreliuorg@gmail.com                                                                                   
        emphasis                     =  15                                                                                                    
