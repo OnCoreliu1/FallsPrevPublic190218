@@ -4,7 +4,7 @@ app    FallsPrevPublic190218        =  Falls Prevention 2
        email                        =  coreliuorg@gmail.com                                                                                   
        emphasis                     =  15                                                                                                    
        icon                         =  screenshot.png 
-       logoText                     =  Falls Prevention 2 by Coreliu
+       logoText                     =  Falls Prevention 2, Coreliu
        
        
 photo  Marble.bathroom              =  Slippery floor tiles                                                                                                     
