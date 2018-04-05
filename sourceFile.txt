@@ -1,10 +1,10 @@
-app    FallsPrevPublic190218        =  Falls Prevention 2                                                                  
+app    FallsPrevPublic190218        =  Prevent Falls                                                                 
        author                       =  OnCoreliu1                                                                                            
        description                  =  Second test of 180218 automated system                                                      
        email                        =  coreliuorg@gmail.com                                                                                   
        emphasis                     =  15                                                                                                    
        icon                         =  screenshot.png 
-       logoText                     =  Falls Prevention 2, Coreliu
+       logoText                     =  Falls Prevention, Coreliu
        
        
 photo  Marble.bathroom              =  Slippery floor tiles                                                                                                     
