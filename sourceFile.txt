@@ -1,4 +1,4 @@
-app    FallsPrevPublic190218        =  Prevent Falls                                                                 
+app    FallsPrevPublic190218        =  Prevent Trips & Falls                                                                 
        author                       =  OnCoreliu1                                                                                            
        description                  =  Second test of 180218 automated system                                                      
        email                        =  coreliuorg@gmail.com                                                                                   
@@ -37,12 +37,12 @@ photo  Bright.lights                =  Bright lights can cause disorientation
 fact   Bright.lights.1              =  Control or reduce bright lighting                                                                                       
 fact   Bright.lights.2              =  Check that bright lights are not flashing or strobing      
 
-photo  Vision                       =  Vision problems increase the likelihood of falls                                                                                                     
+photo  Vision                       =  Vision problems increase likelihood of falls                                                                                                     
        url                          =  distortedvision.jpg                                                                                              
 fact   Vision.1                     =  Check glasses are worn to correct vision                                                                                       
 fact   Vision.2                     =  Check for diseases like macular degeneration     
 
-photo  Spills                       =  Water spills make floors very slippy                                                                                                     
+photo  Spills                       =  Water spills make floors slippy                                                                                                     
        url                          =  waterspill.jpg                                                                                              
 fact   Spills.1                     =  Remove spills like this immediately                                                                                       
 fact   Spills.2                     =  Wipe up both foods and liquids like this     
@@ -50,7 +50,7 @@ fact   Spills.2                     =  Wipe up both foods and liquids like this
 photo  Rug                          =  Avoid uneven surfaces                                                                                                     
        url                          =  rug.jpg                                                                                              
 fact   Rug.1                        =  Thick rugs and worn carpets cause falls                                                                                       
-fact   Rug.2                        =  Check rugs, carpets and other floor coverings are flat and secured      
+fact   Rug.2                        =  Check floor coverings are flat and secured      
 
 
 
