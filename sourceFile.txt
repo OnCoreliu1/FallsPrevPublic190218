@@ -6,6 +6,7 @@ app    FallsPrevPublic190218        =  Trips and Falls
        icon                         =  screenshot.png 
        logoText                     =  Falls Prevention, Coreliu
        wrongRight                   =  1
+       rightInARow                  =  3
        
        
 photo  Marble.bathroom              =  Slippery floor tiles                                                                                                     
