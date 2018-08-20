@@ -1,8 +1,8 @@
-app FallsPrevPublic190218   = Falls Prevention 2. Ssecond falls app (first on Coreliu).
+app FallsPrevPublic190218   = Falls Prevention 2. Second falls app (first on Coreliu).
   maximages = 6
-  icon      = https://avatars3.githubusercontent.com/u/36601206?v=4
-  author    = GforC1
-  email     = 36601206+GforC1@users.noreply.github.com
+  icon      = https://avatars1.githubusercontent.com/u/35506280?v=4
+  author    = OnCoreliu1
+  email     = 36601206+OnCoreliu1@users.noreply.github.com
 
 
 # Details of photo 20170723_173449
