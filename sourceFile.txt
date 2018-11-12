@@ -9,7 +9,7 @@ app    FallsPrevPublic190218       =  Trips and Falls
        rightInARow                  =  3
        
        
-photo  Marble.bathroom              =  Slippery floor tiles                                                                                                     
+photo  Marble.bathroom              =  Slippery floor                                                                                                     
        url                          =  IMG_8149.jpg                                                                                              
 fact   Marble.bathroom.1            =  Marble is like ice when wet                                                                                       
 fact   Marble.bathroom.2            =  Toilet needs handrails                                                                                                                                   
