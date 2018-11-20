@@ -4,13 +4,13 @@ app    FallsPrevPublic190218       =  Trips and Falls
        email                        =  coreliuorg@gmail.com                                                                                   
        emphasis                     =  15                                                                                                    
        icon                         =  screenshot.png 
-       logoText                     =  Falls Prevention, Coreliu
-       wrongRight                   =  1
+       logoText                     =  Minimising Falls, Coreliu
+       wrongRight                   =  3
        rightInARow                  =  3
        musicSpeechVolume            =  200
        
        
-photo  Marble.bathroom              =  Slippery floor                                                                                                     
+photo  Marble.bathroom              =  Slippery floortiles                                                                                                     
        url                          =  IMG_8149.jpg                                                                                              
 fact   Marble.bathroom.1            =  Marble is like ice when wet                                                                                       
 fact   Marble.bathroom.2            =  Toilet needs handrails                                                                                                                                   
@@ -30,25 +30,25 @@ photo  Medication                   =  Medication has side effects
 fact   Medication.1                 =  Can cause dizziness
 fact   Medication.2                 =  Can cause confusion
 
-photo  Obstacles                    =  Obstacles cause trips and falls
+photo  Obstacles                    =  Obstacles cause falls
        url                          =  20170723_174449.jpg
 fact   Obstacles.1                  =  Check routes and paths are clear
 fact   Obstacles.2                  =  Obstacles make rooms difficult to navigate
 
 photo  Bright.lights                =  Bright lights can cause disorientation                                                                                                     
        url                          =  brightlights.jpg                                                                                              
-fact   Bright.lights.1              =  Control or reduce bright lighting                                                                                       
-fact   Bright.lights.2              =  Check that bright lights are not flashing or strobing      
+fact   Bright.lights.1              =  Control bright lights                                                                                      
+fact   Bright.lights.2              =  Avoid flashing or strobing lights    
 
-photo  Vision                       =  Vision problems increase likelihood of falls                                                                                                     
+photo  Vision                       =  Vision problems increase risk of falls                                                                                                     
        url                          =  distortedvision.jpg                                                                                              
-fact   Vision.1                     =  Check glasses are worn to correct vision                                                                                       
+fact   Vision.1                     =  Check glasses are on                                                                                       
 fact   Vision.2                     =  Check for diseases like macular degeneration     
 
 photo  Spills                       =  Water spills make floors slippy                                                                                                     
        url                          =  waterspill.jpg                                                                                              
 fact   Spills.1                     =  Remove spills like this immediately                                                                                       
-fact   Spills.2                     =  Wipe up both foods and liquids like this     
+fact   Spills.2                     =  Wipe up both foods and liquids     
 
 photo  Rug                          =  Avoid uneven surfaces                                                                                                     
        url                          =  rug.jpg                                                                                              
