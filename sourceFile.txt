@@ -1,12 +1,13 @@
 app    FallsPrevPublic190218       =  Trips and Falls                                                                 
        author                       =  OnCoreliu1                                                                                            
-       description                  =  Second test of 180218 automated system                                                      
+       description                  =  Minimising Falls, lower music vol                                                      
        email                        =  coreliuorg@gmail.com                                                                                   
        emphasis                     =  15                                                                                                    
        icon                         =  screenshot.png 
        logoText                     =  Falls Prevention, Coreliu
        wrongRight                   =  1
        rightInARow                  =  3
+       musicSpeechVolume            =  200
        
        
 photo  Marble.bathroom              =  Slippery floor                                                                                                     
