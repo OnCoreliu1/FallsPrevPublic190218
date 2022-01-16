@@ -33,7 +33,7 @@ fact   Medication.2                 =  Can cause confusion
 photo  Obstacles                    =  Obstacles cause falls
        url                          =  20170723_174449.jpg
 fact   Obstacles.1                  =  Check routes and paths are clear
-fact   Obstacles.2                  =  Obstacles make rooms difficult to navigate
+fact   Obstacles.2                  =  Obstacles make rooms difficult to walk through
 
 photo  Bright.lights                =  Bright lights can cause disorientation                                                                                                     
        url                          =  brightlights.jpg                                                                                              
